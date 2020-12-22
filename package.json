@@ -1,0 +1,24 @@
+{
+  "name": "fullstack-d3-basic-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d3.v5.js",
+  "scripts": {
+    "start": "./node_modules/.bin/live-server . --verbose --no-browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Marquez/fs-d3-data-viz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Marquez/fs-d3-data-viz/issues"
+  },
+  "homepage": "https://github.com/Ivan-Marquez/fs-d3-data-viz#readme",
+  "dependencies": {
+    "@types/d3": "^6.2.0",
+    "live-server": "^1.2.1"
+  }
+}
